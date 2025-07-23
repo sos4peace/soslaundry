@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://soslaundry.netlify.app/sitemap.xml
+
+
+
+
+
